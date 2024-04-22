@@ -87,3 +87,5 @@ file = "6430246621_assignment.py"
 with open(file, "r") as f:
     code = f.read()
 st.code(code, language="python")
+
+#use streamlit run filename.py to run the code
